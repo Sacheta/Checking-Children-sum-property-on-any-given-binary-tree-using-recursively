@@ -155,7 +155,7 @@ int main(){
     cout<<"4. Display tree in pre-order fashion"<<endl;
     cout<<"5. Display tree in post-order fashion"<<endl;
     cout<<"6. Display tree in in-order fashion"<<endl;
-    cout<<"7. Print left view of the tree"<<endl;
+    cout<<"7. Print if a tree follows children sum property or not"<<endl;
     int n;
     while(cin>>n){
         switch(n){
